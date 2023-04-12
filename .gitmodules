@@ -10,3 +10,6 @@
 [submodule "spring-mvc"]
 	path = spring-mvc
 	url = https://hyoguoo@github.com/hyoguoo/spring-mvc.git
+[submodule "item-service"]
+	path = item-service
+	url = https://hyoguoo@github.com/hyoguoo/item-service.git
