@@ -1,3 +1,6 @@
 [submodule "spring-introduction"]
 	path = spring-introduction
 	url = https://hyoguoo@github.com/hyoguoo/spring-introduction.git
+[submodule "spring-core-basic"]
+	path = spring-core-basic
+	url = https://hyoguoo@github.com/hyoguoo/spring-core-basic.git
