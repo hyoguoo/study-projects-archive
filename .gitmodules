@@ -7,3 +7,6 @@
 [submodule "spring-servlet"]
 	path = spring-servlet
 	url = https://hyoguoo@github.com/hyoguoo/spring-servlet.git
+[submodule "spring-mvc"]
+	path = spring-mvc
+	url = https://hyoguoo@github.com/hyoguoo/spring-mvc.git
