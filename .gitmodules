@@ -13,3 +13,6 @@
 [submodule "item-service"]
 	path = item-service
 	url = https://hyoguoo@github.com/hyoguoo/item-service.git
+[submodule "jpa-shop"]
+	path = jpa-shop
+	url = https://hyoguoo@github.com/hyoguoo/jpa-shop.git
