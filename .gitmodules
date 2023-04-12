@@ -4,3 +4,6 @@
 [submodule "spring-core-basic"]
 	path = spring-core-basic
 	url = https://hyoguoo@github.com/hyoguoo/spring-core-basic.git
+[submodule "spring-servlet"]
+	path = spring-servlet
+	url = https://hyoguoo@github.com/hyoguoo/spring-servlet.git
