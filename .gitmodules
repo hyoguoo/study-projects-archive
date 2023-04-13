@@ -16,3 +16,6 @@
 [submodule "jpa-shop"]
 	path = jpa-shop
 	url = https://hyoguoo@github.com/hyoguoo/jpa-shop.git
+[submodule "thymeleaf-basic"]
+	path = thymeleaf-basic
+	url = https://hyoguoo@github.com/hyoguoo/thymeleaf-basic.git
