@@ -19,3 +19,6 @@
 [submodule "thymeleaf-basic"]
 	path = thymeleaf-basic
 	url = https://hyoguoo@github.com/hyoguoo/thymeleaf-basic.git
+[submodule "spring-exception"]
+	path = spring-exception
+	url = https://hyoguoo@github.com/hyoguoo/spring-exception.git
