@@ -22,3 +22,6 @@
 [submodule "spring-exception"]
 	path = spring-exception
 	url = https://hyoguoo@github.com/hyoguoo/spring-exception.git
+[submodule "spring-type-converter"]
+	path = spring-type-converter
+	url = https://hyoguoo@github.com/hyoguoo/spring-type-converter.git
