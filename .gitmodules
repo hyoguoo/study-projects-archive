@@ -25,3 +25,6 @@
 [submodule "spring-type-converter"]
 	path = spring-type-converter
 	url = https://hyoguoo@github.com/hyoguoo/spring-type-converter.git
+[submodule "spring-upload"]
+	path = spring-upload
+	url = https://hyoguoo@github.com/hyoguoo/spring-upload.git
