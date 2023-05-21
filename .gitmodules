@@ -28,3 +28,6 @@
 [submodule "spring-upload"]
 	path = spring-upload
 	url = https://hyoguoo@github.com/hyoguoo/spring-upload.git
+[submodule "spring-jdbc"]
+	path = spring-jdbc
+	url = https://hyoguoo@github.com/hyoguoo/spring-jdbc.git
