@@ -1,33 +1,33 @@
 [submodule "spring-introduction"]
-	path = spring-introduction
+	path = repositories/spring-introduction
 	url = https://hyoguoo@github.com/hyoguoo/spring-introduction.git
 [submodule "spring-core-basic"]
-	path = spring-core-basic
+	path = repositories/spring-core-basic
 	url = https://hyoguoo@github.com/hyoguoo/spring-core-basic.git
 [submodule "spring-servlet"]
-	path = spring-servlet
+	path = repositories/spring-servlet
 	url = https://hyoguoo@github.com/hyoguoo/spring-servlet.git
 [submodule "spring-mvc"]
-	path = spring-mvc
+	path = repositories/spring-mvc
 	url = https://hyoguoo@github.com/hyoguoo/spring-mvc.git
 [submodule "item-service"]
-	path = item-service
+	path = repositories/item-service
 	url = https://hyoguoo@github.com/hyoguoo/item-service.git
 [submodule "jpa-shop"]
-	path = jpa-shop
+	path = repositories/jpa-shop
 	url = https://hyoguoo@github.com/hyoguoo/jpa-shop.git
 [submodule "thymeleaf-basic"]
-	path = thymeleaf-basic
+	path = repositories/thymeleaf-basic
 	url = https://hyoguoo@github.com/hyoguoo/thymeleaf-basic.git
 [submodule "spring-exception"]
-	path = spring-exception
+	path = repositories/spring-exception
 	url = https://hyoguoo@github.com/hyoguoo/spring-exception.git
 [submodule "spring-type-converter"]
-	path = spring-type-converter
+	path = repositories/spring-type-converter
 	url = https://hyoguoo@github.com/hyoguoo/spring-type-converter.git
 [submodule "spring-upload"]
-	path = spring-upload
+	path = repositories/spring-upload
 	url = https://hyoguoo@github.com/hyoguoo/spring-upload.git
 [submodule "spring-jdbc"]
-	path = spring-jdbc
+	path = repositories/spring-jdbc
 	url = https://hyoguoo@github.com/hyoguoo/spring-jdbc.git
