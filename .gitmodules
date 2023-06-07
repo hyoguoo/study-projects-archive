@@ -34,3 +34,6 @@
 [submodule "repositories/item-service-db"]
 	path = repositories/item-service-db
 	url = https://hyoguoo@github.com/hyoguoo/item-service-db.git
+[submodule "repositories/spring-transaction"]
+	path = repositories/spring-transaction
+	url = https://hyoguoo@github.com/hyoguoo/spring-transaction.git
