@@ -37,3 +37,6 @@
 [submodule "repositories/spring-transaction"]
 	path = repositories/spring-transaction
 	url = https://hyoguoo@github.com/hyoguoo/spring-transaction.git
+[submodule "repositories/spring-advanced"]
+	path = repositories/spring-advanced
+	url = https://hyoguoo@github.com/hyoguoo/spring-advanced.git
