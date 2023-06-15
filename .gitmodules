@@ -40,3 +40,6 @@
 [submodule "repositories/spring-advanced"]
 	path = repositories/spring-advanced
 	url = https://hyoguoo@github.com/hyoguoo/spring-advanced.git
+[submodule "repositories/spring-proxy"]
+	path = repositories/spring-proxy
+	url = https://hyoguoo@github.com/hyoguoo/spring-proxy.git
