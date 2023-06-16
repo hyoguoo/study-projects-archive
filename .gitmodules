@@ -43,3 +43,6 @@
 [submodule "repositories/spring-proxy"]
 	path = repositories/spring-proxy
 	url = https://hyoguoo@github.com/hyoguoo/spring-proxy.git
+[submodule "repositories/spring-aop"]
+	path = repositories/spring-aop
+	url = https://hyoguoo@github.com/hyoguoo/spring-aop.git
