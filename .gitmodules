@@ -46,3 +46,6 @@
 [submodule "repositories/spring-aop"]
 	path = repositories/spring-aop
 	url = https://hyoguoo@github.com/hyoguoo/spring-aop.git
+[submodule "repositories/spring-was"]
+	path = repositories/spring-was
+	url = https://hyoguoo@github.com/hyoguoo/spring-was.git
