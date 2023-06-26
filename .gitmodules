@@ -49,3 +49,6 @@
 [submodule "repositories/spring-was"]
 	path = repositories/spring-was
 	url = https://hyoguoo@github.com/hyoguoo/spring-was.git
+[submodule "repositories/spring-config"]
+	path = repositories/spring-config
+	url = https://hyoguoo@github.com/hyoguoo/spring-config.git
