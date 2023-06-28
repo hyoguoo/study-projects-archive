@@ -1,4 +1,4 @@
-# Study Code Repository
+# Learning Code Repository
 
 강의를 듣거나 공부하면서 작성된 프로젝트 및 예제 코드를 저장하는 공간입니다.
 
