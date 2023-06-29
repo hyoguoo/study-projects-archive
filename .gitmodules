@@ -52,3 +52,6 @@
 [submodule "repositories/spring-config"]
 	path = repositories/spring-config
 	url = https://hyoguoo@github.com/hyoguoo/spring-config.git
+[submodule "repositories/spring-monitoring"]
+	path = repositories/spring-monitoring
+	url = https://hyoguoo@github.com/hyoguoo/spring-monitoring.git
