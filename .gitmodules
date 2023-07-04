@@ -55,3 +55,6 @@
 [submodule "repositories/spring-monitoring"]
 	path = repositories/spring-monitoring
 	url = https://hyoguoo@github.com/hyoguoo/spring-monitoring.git
+[submodule "repositories/jpa-basic"]
+	path = repositories/jpa-basic
+	url = https://hyoguoo@github.com/hyoguoo/jpa-basic.git
