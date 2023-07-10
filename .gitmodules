@@ -58,3 +58,6 @@
 [submodule "repositories/jpa-basic"]
 	path = repositories/jpa-basic
 	url = https://hyoguoo@github.com/hyoguoo/jpa-basic.git
+[submodule "repositories/data-jpa"]
+	path = repositories/data-jpa
+	url = https://hyoguoo@github.com/hyoguoo/data-jpa.git
